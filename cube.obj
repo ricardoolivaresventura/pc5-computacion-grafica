@@ -1,6 +1,6 @@
 # Blender v2.93.4 OBJ File: ''
 # www.blender.org
-mtllib https://raw.githubusercontent.com/ricardoolivaresventura/pc5-computacion-grafica/main/cubo.mtl
+mtllib Cube https://raw.githubusercontent.com/ricardoolivaresventura/pc5-computacion-grafica/main/cubo.mtl
 o Cube
 v 1.000000 1.000000 -1.000000
 v 1.000000 -1.000000 -1.000000
